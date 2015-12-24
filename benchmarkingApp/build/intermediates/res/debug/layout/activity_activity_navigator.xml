@@ -1,0 +1,50 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="16dp"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="com.example.benchmarkingapp.ActivityNavigator"
+    >
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Benchmarking"
+        android:onClick="doNavigation"
+        android:id="@+id/btnBenchmark"
+        android:layout_marginTop="124dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Simple Calculator"
+        android:onClick="doNavigation"
+        android:id="@+id/btnCalc"
+        android:layout_marginTop="198dp"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Select an app"
+        android:id="@+id/tvSelectApp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Temperature Conversion"
+        android:id="@+id/btnTempConvert"
+        android:onClick="doNavigation"
+        android:layout_marginTop="35dp"
+        android:layout_below="@+id/btnCalc"
+        android:layout_centerHorizontal="true" />
+</RelativeLayout>
+<!-- From: file:/E:/Workspaces/Studio_Examples/MyApp/benchmarkingApp/src/main/res/layout/activity_activity_navigator.xml -->

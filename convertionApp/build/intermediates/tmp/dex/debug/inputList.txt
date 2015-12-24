@@ -1,0 +1,4 @@
+E:\Workspaces\Studio_Examples\MyApp\convertionApp\build\intermediates\classes\debug
+E:\Workspaces\Studio_Examples\MyApp\convertionApp\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-05d48d35c721c1aa6a70b4073f53e43b57206974.jar
+E:\Workspaces\Studio_Examples\MyApp\convertionApp\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-12e24a86f774d011523674bae5fb3524bde2c210.jar
+E:\Workspaces\Studio_Examples\MyApp\convertionApp\build\intermediates\pre-dexed\debug\classes-404191a9ebf3ffa7a06ac6737e9906d0f97235b6.jar

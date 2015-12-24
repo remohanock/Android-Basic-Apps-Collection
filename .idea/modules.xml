@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyApp.iml" filepath="$PROJECT_DIR$/MyApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/benchmarkingApp/benchmarkingApp.iml" filepath="$PROJECT_DIR$/benchmarkingApp/benchmarkingApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/calculatorApp/calculatorApp.iml" filepath="$PROJECT_DIR$/calculatorApp/calculatorApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/convertionApp/convertionApp.iml" filepath="$PROJECT_DIR$/convertionApp/convertionApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/felightapp/felightapp.iml" filepath="$PROJECT_DIR$/felightapp/felightapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jokesapp/jokesapp.iml" filepath="$PROJECT_DIR$/jokesapp/jokesapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mylauncher/mylauncher.iml" filepath="$PROJECT_DIR$/mylauncher/mylauncher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rlauncher/rlauncher.iml" filepath="$PROJECT_DIR$/rlauncher/rlauncher.iml" />
+    </modules>
+  </component>
+</project>
+

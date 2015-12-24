@@ -1,0 +1,4 @@
+include ':app', ':jokesapp', ':mylauncher', ':rlauncher', ':felightapp'
+include ':calculatorApp'
+include ':benchmarkingApp'
+include ':convertionApp'

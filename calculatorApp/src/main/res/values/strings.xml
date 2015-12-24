@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CalculatorApp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="enter_first_number">Enter first number</string>
+    <string name="enter_second_number">Enter second number</string>
+    <string name="result_will_be_diplayed_here_">Result will be diplayed here...</string>
+    <string name="_">+</string>
+
+</resources>

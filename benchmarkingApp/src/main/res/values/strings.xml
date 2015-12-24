@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BenchmarkingApp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="enter_array_size">Enter array size</string>
+    <string name="worst_case">Worst Case</string>
+    <string name="average_case">Average Case</string>
+    <string name="best_case">Best Case</string>
+    <string name="generate_array">Generate Array</string>
+    <string name="status">Status</string>
+    <string name="bubble_sort">Bubble sort</string>
+    <string name="selection_sort">Selection Sort</string>
+    <string name="merge_sort">Merge Sort</string>
+    <string name="insertion_sort">Insertion Sort</string>
+    <string name="result_will_be_displayed_here">Result will be displayed here</string>
+    <string name="press_generate_array_to_generate_the_array">Press Generate Array to generate the array</string>
+    <string name="time_for_bubble_sort">Time for bubble sort</string>
+    <string name="title_activity_calculator">CalculatorActivity</string>
+    <string name="title_activity_activity_navigator">ActivityNavigator</string>
+    <string name="title_activity_temperature_conversion">TemperatureConversion</string>
+    <string name="title_activity_maps">MapsActivity</string>
+
+</resources>

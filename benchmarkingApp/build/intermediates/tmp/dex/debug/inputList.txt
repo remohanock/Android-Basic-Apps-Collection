@@ -1,0 +1,4 @@
+E:\Workspaces\Studio_Examples\MyApp\benchmarkingApp\build\intermediates\classes\debug
+E:\Workspaces\Studio_Examples\MyApp\benchmarkingApp\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-05d48d35c721c1aa6a70b4073f53e43b57206974.jar
+E:\Workspaces\Studio_Examples\MyApp\benchmarkingApp\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-6b49f0e1b7e3fe047f0b899642ca8bcc3ff055cf.jar
+E:\Workspaces\Studio_Examples\MyApp\benchmarkingApp\build\intermediates\pre-dexed\debug\classes-b1dba8618cb44e20567a4e124b0e470caf43d140.jar
